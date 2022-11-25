@@ -1,0 +1,29 @@
+<idea-plugin>
+    <id>gruvbox-anhoder</id>
+    <version>1.0.0</version>
+
+    <name>Gruvbox Anhoder</name>
+    <category>UI</category>
+
+    <vendor email="anhoder@88.com" url="https://github.com/anhoder">anhoder</vendor>
+
+    <idea-version since-build="213" until-build="223.*"/>
+
+    <description><![CDATA[
+    gruvbox is heavily inspired by badwolf, jellybeans and solarized.
+
+    Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
+    ]]></description>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="1b437749-7bd5-494c-8248-c71e3a7c357d" path="/theme/gruvbox_dark_medium.theme.json"/>
+        <themeProvider id="b4145f29-bb3a-4e92-8d1b-ddb5a6bfeecd" path="/theme/gruvbox_dark_soft.theme.json"/>
+        <themeProvider id="62187367-a364-43df-af5b-5404f74590a1" path="/theme/gruvbox_dark_hard.theme.json"/>
+        <themeProvider id="ded0f1f7-b425-4739-8adc-1c098322aadd" path="/theme/gruvbox_light_medium.theme.json"/>
+        <themeProvider id="f0e36052-7e0e-488c-b024-4894f078079a" path="/theme/gruvbox_light_soft.theme.json"/>
+        <themeProvider id="af446abe-cdb5-429a-bb7f-6eaf75d9e399" path="/theme/gruvbox_light_hard.theme.json"/>
+        <themeProvider id="ab153cea-6e0b-4063-a3a7-0c37c2a7ad6e" path="/theme/gruvbox_dark_anhoder.theme.json"/>
+    </extensions>
+</idea-plugin>
