@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>gruvbox-anhoder</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>Gruvbox Anhoder</name>
     <category>UI</category>
