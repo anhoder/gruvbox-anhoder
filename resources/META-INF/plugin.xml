@@ -10,9 +10,7 @@
     <idea-version since-build="213" until-build="223.*"/>
 
     <description><![CDATA[
-    gruvbox is heavily inspired by badwolf, jellybeans and solarized.
-
-    Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
+    gruvbox-anhoder is based on https://plugins.jetbrains.com/plugin/12310-gruvbox-theme.
     ]]></description>
 
     <depends>com.intellij.modules.lang</depends>

@@ -1,4 +1,4 @@
-gruvbox-anhoder is based on gruvbox.
+gruvbox-anhoder is based on [Gruvbox Theme](https://plugins.jetbrains.com/plugin/12310-gruvbox-theme).
 
 https://plugins.jetbrains.com/plugin/20519-gruvbox-anhoder
 
