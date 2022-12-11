@@ -10,7 +10,8 @@
     <idea-version since-build="213" until-build="223.*"/>
 
     <description><![CDATA[
-    gruvbox-anhoder is based on https://plugins.jetbrains.com/plugin/12310-gruvbox-theme.
+    Gruvbox Anhoder is based on https://plugins.jetbrains.com/plugin/12310-gruvbox-theme.
+    Adjusted some color schemes for PHP and Golang.
     ]]></description>
 
     <depends>com.intellij.modules.lang</depends>
