@@ -1,13 +1,13 @@
 <idea-plugin>
     <id>gruvbox-anhoder</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>Gruvbox Anhoder</name>
     <category>UI</category>
 
     <vendor email="anhoder@88.com" url="https://github.com/anhoder">anhoder</vendor>
 
-    <idea-version since-build="213" until-build="231.*"/>
+    <idea-version since-build="213" />
 
     <description><![CDATA[
     Gruvbox Anhoder is based on https://plugins.jetbrains.com/plugin/12310-gruvbox-theme.
